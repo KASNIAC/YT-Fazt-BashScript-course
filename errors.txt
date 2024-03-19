@@ -1,0 +1,16 @@
+01-cat-salida-archivo.sh
+02-cat-salida-consola.sh
+03-read-(input).sh
+04-if-else.sh
+05-logical_operators.sh
+06-case.sh
+07-while.sh
+08-until.sh
+09-for.sh
+10-continue-break.sh
+11-arguments.sh
+12-stdin.sh
+13-stdout_stderr.sh
+erros.txt
+file.txt
+hola.txt
