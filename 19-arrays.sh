@@ -62,7 +62,7 @@ names[${#names[@]}]="loco"
 echo "Los nombres son: ${names[*]}"
 echo "Los indices: ${!names[@]}"
 
-##Eventualmente se alcanza el indice 10 tras varias inserciones, por eso
+## Eventualmente se alcanza el indice 10 tras varias inserciones, por eso
 # es mejor usar la sintaxis names+=("perro");
 
 
